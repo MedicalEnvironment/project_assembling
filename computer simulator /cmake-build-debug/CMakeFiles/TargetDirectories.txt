@@ -1,0 +1,3 @@
+/Users/gasoline/CLionProjects/computer simulator /cmake-build-debug/CMakeFiles/computer_simulator_.dir
+/Users/gasoline/CLionProjects/computer simulator /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gasoline/CLionProjects/computer simulator /cmake-build-debug/CMakeFiles/rebuild_cache.dir

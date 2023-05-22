@@ -1,0 +1,3 @@
+/Users/gasoline/CLionProjects/surgery_simulator(assignment1_project_assemble )/cmake-build-debug/CMakeFiles/surgery_simulator_assignment1_project_assemble__.dir
+/Users/gasoline/CLionProjects/surgery_simulator(assignment1_project_assemble )/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gasoline/CLionProjects/surgery_simulator(assignment1_project_assemble )/cmake-build-debug/CMakeFiles/rebuild_cache.dir
